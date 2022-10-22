@@ -1,0 +1,35 @@
+h1 {
+  color:white;
+  font-family:'Mochiy Pop One';
+  padding:10px;
+  border-radius:10px;
+  display: inline-block;
+}
+h2,h3{
+  color:#B20600;
+  font-family:lobster;
+}
+body {
+  background-color:#FF8C8C;
+  font-family:Roboto mono;
+  padding:20px;
+}
+.hr{
+  border-style:dotted none none ;
+  border-style: none;
+  border-top-style:dotted;
+  border-color:;
+  border-width:5px;
+  width: 10%;
+}
+hr{
+  border-style:dashed;
+}
+a{
+  color:#B20600;
+  text-decoration: none;
+}
+a:hover{
+  color: #F32424;
+  text-decoration: underline;
+}
